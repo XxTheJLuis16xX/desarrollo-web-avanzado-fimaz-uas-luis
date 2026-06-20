@@ -10,4 +10,4 @@ Se creó la clase Usuario con los atributos privados nombre y correo. Además, s
 1. Iniciar Apache en XAMPP.
 2. Abrir el navegador.
 3. Entrar a la URL:
-http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-1/index.php
+http://localhost:8080/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-1/index.php
