@@ -44,14 +44,6 @@ Bootstrap 5
 API REST
 JSON
 
-Evidencias
-
-Cada práctica incluye:
-
-Código fuente
-Evidencia en PDF
-Archivos necesarios para su ejecución
   
 José Luis Lizárraga Uribe
-Universidad Autónoma de Sinaloa
-FIMAZ
+
