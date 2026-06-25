@@ -20,7 +20,7 @@ GitHub
 Ruta de ejecución
 
 http://localhost:8080/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-4/
-Evidencia esperada
+
 
 Tabla HTML de usuarios
 Error controlado por correo inválido
