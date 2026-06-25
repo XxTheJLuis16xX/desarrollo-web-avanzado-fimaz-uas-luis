@@ -1,19 +1,19 @@
 Desarrollo Web Avanzado
 
-Alumno
+Alumno:
 José Luis Lizárraga Uribe
 
-Materia
+Materia:
 Desarrollo Web Avanzado
 
-Profesor
+Profesor:
 Dr. José Alfonso Aguilar Calderón 
 
-Descripción
+Descripción:
 
 Este repositorio contiene todas las actividades realizadas durante el curso de Desarrollo Web Avanzado, incluyendo las prácticas de cada parcial y el Proyecto Integrador Final.
 
-Contenido del repositorio
+Contenido del repositorio:
 
 Parcial 1 - Programación Orientada a Objetos
 Práctica 1
