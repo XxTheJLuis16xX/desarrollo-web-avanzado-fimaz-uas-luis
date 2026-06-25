@@ -35,6 +35,4 @@ Estructura del Proyecto
 index.php
 
 
-Enlace del repositorio
 
-Repositorio GitHub de la actividad del Examen Parcial Unidad 2.
